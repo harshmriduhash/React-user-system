@@ -15,7 +15,7 @@
   "dependencies": {
     "animate-components": "^1.4.2",
     "aphrodite": "^1.2.1",
-    "axios": "^0.16.1",
+    "axios": "^0.18.1",
     "bcrypt-nodejs": "^0.0.3",
     "bluebird": "^3.5.0",
     "body-parser": "^1.17.2",
