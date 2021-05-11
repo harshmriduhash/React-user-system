@@ -33,7 +33,7 @@
     "handy-timeago": "^1.0.1",
     "handy-tooltip": "^1.0.10",
     "jquery": "^3.2.1",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "morgan": "^1.8.2",
     "multer": "^1.3.0",
     "mysql": "^2.13.0",
