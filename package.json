@@ -67,7 +67,7 @@
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
     "nodemon": "^1.11.0",
-    "webpack": "^2.4.1",
+    "webpack": "^5.75.0",
     "yarn": "^0.24.5"
   }
 }
